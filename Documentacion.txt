@@ -1,0 +1,7 @@
+Documentacion para poder hacer las peticiones de axios
+
+https://www.npmjs.com/package/axios
+
+
+Para los metodos
+https://stackabuse.com/how-to-make-put-http-request-with-axios/
